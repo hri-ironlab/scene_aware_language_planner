@@ -5,3 +5,4 @@ torch
 openai
 jupyter
 flask-ngrok
+pyngrok==4.1.1
